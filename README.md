@@ -1,3 +1,3 @@
-# Declan Hartery's Website
+# Declan Hartery's Website Github
 
-## This is a home page.
+## This is a readme.
